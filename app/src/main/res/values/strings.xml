@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Sentiment</string>
+    <string name="header_text">News Sentiment Analysis</string>
+    <string name="all_articles">All</string>
+    <string name="positive_articles">Positive</string>
+    <string name="negative_articles">Negative</string>
+</resources>
